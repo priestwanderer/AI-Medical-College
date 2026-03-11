@@ -1,0 +1,54 @@
+{
+    "name": "ai-medical-college",
+    "version": "0.0.1",
+    "description": "AI医学院用户操作指南",
+    "license": "GPL-3.0-only",
+    "author": {
+        "name": "PriestWanderer",
+        "email": "181385062+priestwanderer@users.noreply.github.com",
+        "url": "https://github.com/priestwanderer"
+    },
+    "homepage": "https://github.com/priestwanderer/AI-Medical-College",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/priestwanderer/AI-Medical-College.git"
+    },
+    "engines": {
+        "node": "^24.0.0"
+    },
+    "type": "module",
+    "scripts": {
+        "docs:dev": "vitepress dev",
+        "docs:build": "vitepress build",
+        "docs:preview": "vitepress preview",
+        "eslint": "eslint . --fix",
+        "prettier": "prettier . --write",
+        "prepare": "husky install",
+        "lint:lint-staged": "lint-staged"
+    },
+    "lint-staged": {
+        "*.{js,cjs,mjs,jsx,ts,tsx,html,vue}": [
+            "eslint --fix",
+            "prettier --write"
+        ],
+        "*.{css,scss,less,styl}": [
+            "prettier --write"
+        ],
+        "*.{json,yml,yaml}": [
+            "prettier --write"
+        ],
+        "*.md": [
+            "prettier --write"
+        ]
+    },
+    "devDependencies": {
+        "eslint": "^9.35.0",
+        "eslint-config-prettier": "^10.1.8",
+        "eslint-plugin-prettier": "^5.5.4",
+        "globals": "^16.4.0",
+        "husky": "^9.1.7",
+        "lint-staged": "^16.1.6",
+        "prettier": "3.6.2",
+        "vitepress": "2.0.0-alpha.12"
+    }
+}
