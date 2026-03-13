@@ -51,9 +51,32 @@ export default defineConfig({
                         { text: '病例库', link: '/teacher/ai-medical-knowledge-base/case-library' },
                         { text: '智能检索', link: '/teacher/ai-medical-knowledge-base/intelligent-search' }
                     ]
+                },
+                {
+                    text: '智慧学伴',
+                    items: [
+                        { text: '功能概括', link: '/teacher/smart-companion/overview' },
+                        { text: '操作流程', link: '/teacher/smart-companion/operation' },
+                        { text: '大模型对话案例', link: '/teacher/smart-companion/case-studies' },
+                        { text: '注意事项', link: '/teacher/smart-companion/precautions' }
+                    ]
+                },
+                {
+                    text: '名家学堂',
+                    items: [
+                        { text: '女性两癌专病大模型', link: '/teacher/famous-teachers/cervical-cancer-model' },
+                        { text: '慢性肾病大模型', link: '/teacher/famous-teachers/ckd-model' },
+                        { text: '青少年体重管理大模型', link: '/teacher/famous-teachers/weight-management-model' },
+                        { text: '早产儿管理大模型', link: '/teacher/famous-teachers/preterm-infant-management-model' },
+                        { text: '肾功衰竭管理大模型', link: '/teacher/famous-teachers/renal-failure-management-model' }
+                    ]
+                },
+                {
+                    text: 'AI素养评估',
+                    items: [{ text: '评估表单收集测评', link: '/teacher/ai-literacy-assessment/form-collection' }]
                 }
             ]
-            // '/web/': [
+            // '/student/': [
             //     {
             //         text: '简介',
             //         items: [
