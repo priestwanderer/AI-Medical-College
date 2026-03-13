@@ -33,6 +33,16 @@ export default defineConfig({
                 {
                     text: '开始使用',
                     items: [{ text: '登录', link: '/teacher/how-to-login' }]
+                },
+                {
+                    text: 'AI学习门户',
+                    items: [
+                        { text: '班级智能看板', link: '/teacher/ai-portal/class-dashboard' },
+                        { text: '教学资源管理', link: '/teacher/ai-portal/resource-management' },
+                        { text: '个人中心', link: '/teacher/ai-portal/personal-center' },
+                        { text: '题库管理', link: '/teacher/ai-portal/question-bank-management' },
+                        { text: '考试管理', link: '/teacher/ai-portal/exam-management' }
+                    ]
                 }
                 // {
                 //     text: '电脑使用的基本知识',
