@@ -43,18 +43,15 @@ export default defineConfig({
                         { text: '题库管理', link: '/teacher/ai-portal/question-bank-management' },
                         { text: '考试管理', link: '/teacher/ai-portal/exam-management' }
                     ]
+                },
+                {
+                    text: 'AI医学知识库',
+                    items: [
+                        { text: '个人知识体系', link: '/teacher/ai-medical-knowledge-base/personal-knowledge' },
+                        { text: '病例库', link: '/teacher/ai-medical-knowledge-base/case-library' },
+                        { text: '智能检索', link: '/teacher/ai-medical-knowledge-base/intelligent-search' }
+                    ]
                 }
-                // {
-                //     text: '电脑使用的基本知识',
-                //     items: [
-                //         { text: '电脑硬件组成', link: '/prologue/basic-knowledge/pc-hardware-composition' },
-                //         { text: '操作系统概述', link: '/prologue/basic-knowledge/pc-os-overview' },
-                //         { text: '电脑桌面的常用功能区域', link: '/prologue/basic-knowledge/pc-desktop-common-area' },
-                //         { text: '图形界面和命令行', link: '/prologue/basic-knowledge/gui-and-cli' },
-                //         { text: '文件和目录', link: '/prologue/basic-knowledge/files-and-directories' },
-                //         { text: '系统环境变量', link: '/prologue/basic-knowledge/system-environment-variables' }
-                //     ]
-                // }
             ]
             // '/web/': [
             //     {
