@@ -64,6 +64,7 @@ export default defineConfig({
                 {
                     text: '名家学堂',
                     items: [
+                        { text: '功能介绍', link: '/teacher/famous-teachers/overview' },
                         { text: '女性两癌专病大模型', link: '/teacher/famous-teachers/cervical-cancer-model' },
                         { text: '慢性肾病大模型', link: '/teacher/famous-teachers/ckd-model' },
                         { text: '青少年体重管理大模型', link: '/teacher/famous-teachers/weight-management-model' },
