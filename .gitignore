@@ -1,5 +1,8 @@
 # Git 代码跟踪忽略规则
 
+# macOS
+.DS_Store
+
 # Logs
 logs
 *.log
