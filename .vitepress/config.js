@@ -5,7 +5,7 @@ export default defineConfig({
     lang: 'zh-CN',
     title: 'AI医学院用户操作指南',
     description: 'A Site of How to Use AI Medical College Platform',
-    head: [['link', { rel: 'icon', href: '/logo.svg' }]],
+    head: [['link', { rel: 'icon', href: '/logo.png' }]],
     base: '/',
     cleanUrls: true,
     ignoreDeadLinks: true,
@@ -20,7 +20,7 @@ export default defineConfig({
     },
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
-        logo: '/logo.svg',
+        logo: '/logo.png',
         // 顶部导航
         nav: [
             { text: '主页', link: '/' },

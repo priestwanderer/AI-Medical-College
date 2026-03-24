@@ -3,7 +3,7 @@
 ## PC端模型首页介绍
 左上角绿色方框为大模型的LOGO，下方"福星 儿童肥胖干预"大模型为名称，红色方框是功能跳转按钮，点击按钮后，跳转到模型功能详情页
 
-![5_3_1](/public/teacher/famous-teachers/5_3_1.png)
+![5_3_1](/teacher/famous-teachers/5_3_1.png)
 
 ## PC端模型功能详情页介绍
 
@@ -18,58 +18,58 @@
 
 下面将详细介绍各区域功能的详细情况
 
-![5_3_2](/public/teacher/famous-teachers/5_3_2.png)
+![5_3_2](/teacher/famous-teachers/5_3_2.png)
 
 ## 历史对话区域功能概况
 
 ### 开启新对话功能
 点击开启新对话后，将回到模型功能详情页界面的初始状态。之前的对话将被按照日期储存到历史对话区域中
 
-![5_1_3_1](/public/teacher/famous-teachers/5_1_3_1.png)
+![5_1_3_1](/teacher/famous-teachers/5_1_3_1.png)
 
 ### 收起侧边栏功能
 若不想显示历史对话区域，只保留对话界面，可以点击图中所示按钮，收起侧边栏；若想显示侧边栏，也只需点击相同按钮
 
-![5_2_5_2](/public/teacher/famous-teachers/5_2_5_2.png)
+![5_2_5_2](/teacher/famous-teachers/5_2_5_2.png)
 
 ### 历史对话功能
 点击历史对话，在聊天区域中可以显示对应的聊天内容，同时也支持对历史聊天进行删除、重命名的功能
 
-![5_1_3_3](/public/teacher/famous-teachers/5_1_3_3.png)
+![5_1_3_3](/teacher/famous-teachers/5_1_3_3.png)
 
 ## 账户区域功能概况
 
 ### 账户退出功能
 界面左下角会显示账户名称，点击后出现一个退出弹窗，选择注销后，系统回到登录界面，此时可以切换不同账户进行登录
 
-![5_1_4_1](/public/teacher/famous-teachers/5_1_4_1.png)
+![5_1_4_1](/teacher/famous-teachers/5_1_4_1.png)
 
 ## 个人知识库上传功能
 知识库可以让大模型的回答更加精确，更加贴合使用者的日常习惯，减少“幻觉”的发生评率。因此一个丰富完善的知识库对于大模型的良性运很有帮助，本系统的一大亮点就是知识库的管理，分为系统知识库和个人知识库。其中，系统知识库将在第四章详细介绍，本版块将重点介绍个人知识库的建立。
 
 点击账户上方的个人知识库后，会弹出知识库界面，如图1，点击右上角添加文件，可以从本地上传相应的文件，目前支持大部分主流格式的文件上传，如`pdf、txt、doc、docx、xls等`。在上传成功后，绿色方框的内容是用户上传的文件列表，可以进行删除、下载等功能。上传的知识库应该与儿童肥胖方向为主，可以是相关医学文章或者报道，也可以是自身平时针对儿童病情的总结，具体效果如图2所示。总之，知识库的种类越多，内容越正确，那么大模型生成的内容也更加精准，所以鼓励用户多多上传知识库。
 
-![5_1_4_2](/public/teacher/famous-teachers/5_1_4_2.png)
+![5_1_4_2](/teacher/famous-teachers/5_1_4_2.png)
 
-![5_1_4_3](/public/teacher/famous-teachers/5_1_4_3.png)
+![5_1_4_3](/teacher/famous-teachers/5_1_4_3.png)
 
 ## 大模型对话区域功能概况
 
 ### 大模型对话设置功能
 目前仅支持deepseek-R1的大模型调用，后续版本可能将支持更多种类的大语言模型，点击个人知识库后，按钮会变成蓝色，此时再与大模型对话，系统将调用之前上传的个人知识库作为参考，如果不点击个人知识，那么系统将不会调用个人知识库，只是以系统自带的知识库作为参考标准。同时，与大模型的对话支持主流文件格式的上传，大模型将有效识别文件信息。
 
-![5_3_6](/public/teacher/famous-teachers/5_3_6.png)
+![5_3_6](/teacher/famous-teachers/5_3_6.png)
 
 ## 大模型对话案例介绍
 在与大模型对话的过程中，点击右下角的停止按钮，就会停止正在生成的内容。如果点击上方的开启新对话，目前的对话就会被储存到历史对话区域，同时界面重新回到主页面的样子
 
-![5_3_7_1](/public/teacher/famous-teachers/5_3_7_1.png)
+![5_3_7_1](/teacher/famous-teachers/5_3_7_1.png)
 
 目前大模型的输出内容、准确度以及输出格式基本符合用户的需求，下面是一些对话案例的演示
 
-![5_3_7_2](/public/teacher/famous-teachers/5_3_7_2.png)
+![5_3_7_2](/teacher/famous-teachers/5_3_7_2.png)
 
-![5_3_7_3](/public/teacher/famous-teachers/5_3_7_3.png)
+![5_3_7_3](/teacher/famous-teachers/5_3_7_3.png)
 
 ## 功能区域介绍
 目前系统利用自身知识库，内置了知识查询功能，接下来将详细介绍该功能板块。
@@ -83,18 +83,18 @@
 
 具体效果可参考图6。该功能板块调用的知识库和技能将在第四章详细介绍。
 
-![5_3_8_1](/public/teacher/famous-teachers/5_3_8_1.png)
+![5_3_8_1](/teacher/famous-teachers/5_3_8_1.png)
 
 图5 儿童肥胖诊疗咨询界面  
 
-![5_3_8_2](/public/teacher/famous-teachers/5_3_8_2.png)
+![5_3_8_2](/teacher/famous-teachers/5_3_8_2.png)
 
 图6 儿童肥胖诊疗咨询案例
 
 ### 患者管理介绍
 支持患者信息的录入、查询和管理，方便医生对患者进行分类管理和随访。提供患者健康档案的建立和维护功能，记录患者的基本信息、病史、治疗过程等。
 
-![5_3_8_3](/public/teacher/famous-teachers/5_3_8_3.png)
+![5_3_8_3](/teacher/famous-teachers/5_3_8_3.png)
 
 ## PC端注意事项
 1. 在大模型对话区域，若发送按钮消失，可以直接敲键盘的回车键进行发送  
@@ -116,7 +116,7 @@
    - 饮食计划：查看完整饮食安排及营养成分信息  
    - 我的：进入个人中心，管理个人健康档案、查看健康值排行、健康饮食日历等  
 
-![5_3_10](/public/teacher/famous-teachers/5_3_10.png)
+![5_3_10](/teacher/famous-teachers/5_3_10.png)
 
 ### 欢迎与介绍区域
 - **个性化问候语**：如“你好，周星星”等个性化问候语，提升用户体验的亲切感。  
@@ -142,9 +142,9 @@
 6. **可通过输入框或语音输入补充信息**，在对话过程中，可在输入框中输入问题或想要补充的信息，点击“发送”按钮发送消息；也可点击麦克风图标进行语音输入，系统会自动将语音转为文字发送。    
 7. **如需中止对话可点击“中止”按钮。**  
 
-![5_3_11_1](/public/teacher/famous-teachers/5_3_11_1.png)
+![5_3_11_1](/teacher/famous-teachers/5_3_11_1.png)
 
-![5_3_11_2](/public/teacher/famous-teachers/5_3_11_2.png)
+![5_3_11_2](/teacher/famous-teachers/5_3_11_2.png)
 
 ### 自由问答
 1. **点击常用功能区的“自由问答”图标进入页面。**  
@@ -153,7 +153,7 @@
 4. **可继续追问或使用语音输入。**可根据解答结果继续提问，深入了解更多健康信息；也可通过语音输入方式发送问题。  
 5. **需要中止时点击“中止”按钮。**  
 
-![5_3_11_3](/public/teacher/famous-teachers/5_3_11_3.png)
+![5_3_11_3](/teacher/famous-teachers/5_3_11_3.png)
 
 ### 饮食计划生成
 1. **点击“饮食计划生成”图标进入页面。**  
@@ -164,9 +164,9 @@
 6. **若已生成任务系统会提示避免重复生成。**若已有每日任务清单，系统会提示“已有每日任务清单，请勿重复生成”，避免重复操作。  
 7. **按计划执行饮食安排。**用户可查看完整的饮食任务清单，按照计划安排日常饮食，培养健康的饮食习惯。  
 
-![5_3_11_4](/public/teacher/famous-teachers/5_3_11_4.jpeg)
+![5_3_11_4](/teacher/famous-teachers/5_3_11_4.jpeg)
 
-![5_3_11_5](/public/teacher/famous-teachers/5_3_11_5.jpeg)
+![5_3_11_5](/teacher/famous-teachers/5_3_11_5.jpeg)
 
 ## 应用端模型记录页介绍
 
@@ -179,7 +179,7 @@
 - **腰围记录：**显示腰围数据，如“72cm”，记录时间“2025-08-29 09:22:48”。  
 - **BMI指数：**显示BMI值“27.9”，标有“重度肥胖”标签，附带健康建议。  
 
-![5_3_12_1](/public/teacher/famous-teachers/5_3_12_1.png)
+![5_3_12_1](/teacher/famous-teachers/5_3_12_1.png)
 
 ### 操作流程说明
 - 点击“记录”进入数据页面  
@@ -187,11 +187,11 @@
 - 查看健康数据时，点击相应记录可查看详情，如体重变化趋势、BMI记录统计等。  
 - 根据BMI指数提示，如“重度肥胖”，参考建议咨询医生，制定减重方案。  
 
-![5_3_12_2](/public/teacher/famous-teachers/5_3_12_2.png)
+![5_3_12_2](/teacher/famous-teachers/5_3_12_2.png)
 
-![5_3_12_3](/public/teacher/famous-teachers/5_3_12_3.png)
+![5_3_12_3](/teacher/famous-teachers/5_3_12_3.png)
 
-![5_3_12_4](/public/teacher/famous-teachers/5_3_12_4.png)
+![5_3_12_4](/teacher/famous-teachers/5_3_12_4.png)
 
 ## 应用端模型饮食计划页介绍
 
@@ -203,7 +203,7 @@
 - **三餐任务卡片：**早餐、午餐、晚餐任务卡片分别展示对应时段“07:00-08:00”“11:30-12:30”“17:00-18:00”，列出各类食物及重量、热量。  
 - **任务操作按钮：**各任务卡片右侧配有“去完成”或“已完成”按钮。  
 
-![5_3_13_1](/public/teacher/famous-teachers/5_3_13_1.png)
+![5_3_13_1](/teacher/famous-teachers/5_3_13_1.png)
 
 ### 操作流程说明
 - 点击“饮食计划”图标进入页面  
@@ -213,9 +213,9 @@
 - 完成所有三餐任务后，可在健康饮食任务中查看得分。  
 - 如需删除饮食任务，点击页面顶部“删除”按钮，确认后任务将被清除。  
 
-![5_3_13_1](/public/teacher/famous-teachers/5_3_13_1.png)
+![5_3_13_1](/teacher/famous-teachers/5_3_13_1.png)
 
-![5_3_13_3](/public/teacher/famous-teachers/5_3_13_3.png)
+![5_3_13_3](/teacher/famous-teachers/5_3_13_3.png)
 
 ## 应用端模型 我的 页介绍
 
@@ -229,7 +229,7 @@
 - **健康值排行榜：**展示总榜、饮食任务等不同类别的排行榜。  
 - **健康饮食日历：**以日历形式展示，日期根据是否有数据以不同颜色区分。  
 
-![5_3_14](/public/teacher/famous-teachers/5_3_14.png)
+![5_3_14](/teacher/famous-teachers/5_3_14.png)
 
 ### 操作流程说明
 1. 点击“我的”进入个人中心  
@@ -238,25 +238,25 @@
 4. 点击“健康饮食日历”，进入日历页面。点击带颜色的日期查看当日饮食计划详情，红色表示当天饮食计划，绿色表示历史饮食计划。  
 5. 在饮食计划详情页面，可选择时间查看任务完成情况，点击“已完成”查看自己的得分和上传记录。  
 
-![5_3_15_1](/public/teacher/famous-teachers/5_3_15_1.png)
+![5_3_15_1](/teacher/famous-teachers/5_3_15_1.png)
 
-![5_3_15_2](/public/teacher/famous-teachers/5_3_15_2.png)
+![5_3_15_2](/teacher/famous-teachers/5_3_15_2.png)
 
-![5_3_15_3](/public/teacher/famous-teachers/5_3_15_3.png)
+![5_3_15_3](/teacher/famous-teachers/5_3_15_3.png)
 
-![5_3_15_4](/public/teacher/famous-teachers/5_3_15_4.png)
+![5_3_15_4](/teacher/famous-teachers/5_3_15_4.png)
 
-![5_3_15_5](/public/teacher/famous-teachers/5_3_15_5.png)
+![5_3_15_5](/teacher/famous-teachers/5_3_15_5.png)
 
 点击“健康饮食”，进入健康饮食页面，查看自己制定的蔬果计划和饮水记录，还可以查看健康食谱的一些文件内容。  
 
-![5_3_15_6](/public/teacher/famous-teachers/5_3_15_6.png)
+![5_3_15_6](/teacher/famous-teachers/5_3_15_6.png)
 
-![5_3_15_7](/public/teacher/famous-teachers/5_3_15_7.png)
+![5_3_15_7](/teacher/famous-teachers/5_3_15_7.png)
 
-![5_3_15_8](/public/teacher/famous-teachers/5_3_15_8.png)
+![5_3_15_8](/teacher/famous-teachers/5_3_15_8.png)
 
-![5_3_15_9](/public/teacher/famous-teachers/5_3_15_9.png)
+![5_3_15_9](/teacher/famous-teachers/5_3_15_9.png)
 
 ## 应用端注意事项
 

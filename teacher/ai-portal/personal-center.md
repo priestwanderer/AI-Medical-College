@@ -3,4 +3,4 @@
 ## 查看个人信息
 在个人中心，教师可以查看自己的基本信息，包括姓名、工号、所属部门等。
 
-![2_3](/public/teacher/ai-portal/2_3.png)
+![2_3](/teacher/ai-portal/2_3.png)

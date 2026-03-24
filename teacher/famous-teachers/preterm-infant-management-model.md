@@ -3,7 +3,7 @@
 ## 模型首页介绍
 左上角红色方框为大模型的LOGO，下方"爱新智护"大模型为名称，绿色方框是功能跳转按钮，点击按钮后，跳转到模型功能详情页。
 
-![5_4_1](/public/teacher/famous-teachers/5_4_1.png)
+![5_4_1](/teacher/famous-teachers/5_4_1.png)
 
 ## 模型功能详情页介绍
 
@@ -17,31 +17,31 @@
 
 下面将详细介绍各区域功能的详细情况。
 
-![5_4_2](/public/teacher/famous-teachers/5_4_2.png)
+![5_4_2](/teacher/famous-teachers/5_4_2.png)
 
 ## 历史对话区域功能概况
 
 ### 开启新对话功能
 点击开启新对话后，将回到模型功能详情页界面的初始状态。之前的对话将被按照日期储存到历史对话区域中。
 
-![5_1_3_1](/public/teacher/famous-teachers/5_1_3_1.png)
+![5_1_3_1](/teacher/famous-teachers/5_1_3_1.png)
 
 ### 收起侧边栏功能
 若不想显示历史对话区域，只保留对话界面，可以点击图中所示按钮收起侧边栏；若想显示侧边栏，也只需点击相同按钮。
 
-![5_4_3_2](/public/teacher/famous-teachers/5_4_3_2.png)
+![5_4_3_2](/teacher/famous-teachers/5_4_3_2.png)
 
 ### 历史对话功能
 点击历史对话，在聊天区域中可以显示对应的聊天内容，同时也支持对历史聊天进行删除、重命名的功能。
 
-![5_1_3_3](/public/teacher/famous-teachers/5_1_3_3.png)
+![5_1_3_3](/teacher/famous-teachers/5_1_3_3.png)
 
 ## 账户区域功能概况
 
 ### 账户退出功能
 界面左下角会显示账户名称，点击后出现一个退出弹窗，选择注销后，系统回到登录界面，此时可以切换不同账户进行登录。
 
-![5_1_4_1](/public/teacher/famous-teachers/5_1_4_1.png)
+![5_1_4_1](/teacher/famous-teachers/5_1_4_1.png)
 
 ## 个人知识库上传功能
 知识库可以让大模型的回答更加精确，更加贴合使用者的日常习惯，减少“幻觉”的发生概率。因此一个丰富完善的知识库对于大模型的良性运行很有帮助。本系统的一大亮点就是个人知识库的管理，接下来将重点介绍个人知识库的建立。
@@ -52,9 +52,9 @@
 
 总之，知识库的种类越多、内容越准确，大模型生成的内容也会更加精准，因此鼓励用户多上传相关知识库资料。
 
-![5_1_4_2](/public/teacher/famous-teachers/5_1_4_2.png)
+![5_1_4_2](/teacher/famous-teachers/5_1_4_2.png)
 
-![5_1_4_3](/public/teacher/famous-teachers/5_1_4_3.png)
+![5_1_4_3](/teacher/famous-teachers/5_1_4_3.png)
 
 ## 大模型对话区域功能概况
 
@@ -63,22 +63,22 @@
 
 点击“个人知识库”后按钮会变成蓝色，此时再与大模型对话，系统会调用之前上传的个人知识库作为参考。**如果未点击个人知识库，则系统仅使用系统自带知识库作为参考。**同时，大模型对话支持上传主流格式文件，大模型能够识别并分析文件内容。
 
-![5_4_5_1](/public/teacher/famous-teachers/5_4_5_1.png)
+![5_4_5_1](/teacher/famous-teachers/5_4_5_1.png)
 
 ### 大模型对话案例介绍
 在与大模型对话过程中，点击右下角 **停止按钮** 可以终止当前生成内容。如果点击上方 **开启新对话**，当前对话将被储存到历史对话区域，同时界面恢复到初始状态。
 
-![5_4_5_2](/public/teacher/famous-teachers/5_4_5_2.png)
+![5_4_5_2](/teacher/famous-teachers/5_4_5_2.png)
 
 目前大模型输出内容、准确度以及输出格式基本符合用户需求，系统也提供了多个对话案例供参考。
 
-![5_4_5_3](/public/teacher/famous-teachers/5_4_5_3.png)
+![5_4_5_3](/teacher/famous-teachers/5_4_5_3.png)
 
-![5_4_5_4](/public/teacher/famous-teachers/5_4_5_4.png)
+![5_4_5_4](/teacher/famous-teachers/5_4_5_4.png)
 
-![5_4_5_5](/public/teacher/famous-teachers/5_4_5_5.png)
+![5_4_5_5](/teacher/famous-teachers/5_4_5_5.png)
 
-![5_4_5_6](/public/teacher/famous-teachers/5_4_5_6.png)
+![5_4_5_6](/teacher/famous-teachers/5_4_5_6.png)
 
 ## 功能区域介绍
 目前系统利用自身知识库，内置四个功能模块：
@@ -103,11 +103,11 @@
 3. 治疗建议  
 4. 进一步需要完善的检查  
 
-![5_4_6_1](/public/teacher/famous-teachers/5_4_6_1.png)
+![5_4_6_1](/teacher/famous-teachers/5_4_6_1.png)
 
-![5_4_6_2](/public/teacher/famous-teachers/5_4_6_2.png)
+![5_4_6_2](/teacher/famous-teachers/5_4_6_2.png)
 
-![5_4_6_3](/public/teacher/famous-teachers/5_4_6_3.png)
+![5_4_6_3](/teacher/famous-teachers/5_4_6_3.png)
 
 ### 早产儿—家长端
 该功能面向患儿家长，生成的内容更加通俗易懂，使用简单清晰的语言回答问题，同时提供专业的健康建议。
@@ -129,17 +129,17 @@
 5. 随访监测  
 6. 风险分层与说明  
 
-![5_4_6_4](/public/teacher/famous-teachers/5_4_6_4.png)  
+![5_4_6_4](/teacher/famous-teachers/5_4_6_4.png)  
 
-![5_4_6_5](/public/teacher/famous-teachers/5_4_6_5.png)
+![5_4_6_5](/teacher/famous-teachers/5_4_6_5.png)
 
-![5_4_6_6](/public/teacher/famous-teachers/5_4_6_6.png)
+![5_4_6_6](/teacher/famous-teachers/5_4_6_6.png)
 
-![5_4_6_7](/public/teacher/famous-teachers/5_4_6_7.png)
+![5_4_6_7](/teacher/famous-teachers/5_4_6_7.png)
 
-![5_4_6_8](/public/teacher/famous-teachers/5_4_6_8.png)
+![5_4_6_8](/teacher/famous-teachers/5_4_6_8.png)
 
-![5_4_6_9](/public/teacher/famous-teachers/5_4_6_9.png)
+![5_4_6_9](/teacher/famous-teachers/5_4_6_9.png)
 
 ### 遗传代谢病—家长端
 该功能主要面向患儿家长，系统会以更加易懂的表达方式解释疾病情况，并提供相应健康建议。
@@ -149,11 +149,11 @@
 - 信息不足：提示继续补充  
 - 信息充足：生成面向家长的解释与建议  
 
-![5_4_6_10](/public/teacher/famous-teachers/5_4_6_10.png)
+![5_4_6_10](/teacher/famous-teachers/5_4_6_10.png)
 
-![5_4_6_11](/public/teacher/famous-teachers/5_4_6_11.png)
+![5_4_6_11](/teacher/famous-teachers/5_4_6_11.png)
 
-![5_4_6_12](/public/teacher/famous-teachers/5_4_6_12.png)
+![5_4_6_12](/teacher/famous-teachers/5_4_6_12.png)
 
 ## 注意事项
 
