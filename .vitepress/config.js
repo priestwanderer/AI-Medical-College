@@ -76,20 +76,63 @@ export default defineConfig({
                     text: 'AI素养评估',
                     items: [{ text: '评估表单收集测评', link: '/teacher/ai-literacy-assessment/form-collection' }]
                 }
+            ],
+            '/student/': [
+                {
+                    text: '开始使用',
+                    items: [{ text: '登录', link: '/student/how-to-login' }]
+                },
+                {
+                    text: 'AI学习门户',
+                    items: [
+                        { text: '首页展示', link: '/student/ai-portal/homepage' },
+                        { text: '自主学习', link: '/student/ai-portal/independent-learning' },
+                        { text: '个性化测试', link: '/student/ai-portal/personalized-testing' },
+                        { text: '考核评价', link: '/student/ai-portal/assessment' },
+                        { text: '考试管理', link: '/student/ai-portal/exam-management' },
+                        { text: '个人中心', link: '/student/ai-portal/personal-center' }
+                    ]
+                },
+                {
+                    text: 'AI素养评估',
+                    items: [{ text: '评估表单收集测评', link: '/student/ai-literacy-assessment/form-collection' }]
+                },
+                {
+                    text: 'AI医学知识库',
+                    items: [
+                        { text: '个人知识体系', link: '/student/ai-medical-knowledge-base/personal-knowledge' },
+                        { text: '病例库', link: '/student/ai-medical-knowledge-base/case-library' },
+                        { text: '智能检索', link: '/student/ai-medical-knowledge-base/intelligent-search' }
+                    ]
+                },
+                {
+                    text: 'AI学习助手',
+                    items: [
+                        { text: '学习路径推荐', link: '/student/ai-learning-assistant/path-recommendation' },
+                        { text: '模拟医患交互', link: '/student/ai-learning-assistant/simulation' },
+                        { text: 'AI问答', link: '/student/ai-learning-assistant/ai-qa' }
+                    ]
+                },
+                {
+                    text: '名家学堂',
+                    items: [
+                        { text: '女性两癌专病大模型', link: '/student/famous-teachers/cervical-cancer-model' },
+                        { text: '慢性肾病大模型', link: '/student/famous-teachers/ckd-model' },
+                        { text: '青少年体重管理大模型', link: '/student/famous-teachers/weight-management-model' },
+                        { text: '早产儿管理大模型', link: '/student/famous-teachers/preterm-infant-management-model' },
+                        { text: '肾功衰竭管理大模型', link: '/student/famous-teachers/renal-failure-management-model' }
+                    ]
+                },
+                {
+                    text: '智慧学伴',
+                    items: [
+                        { text: '功能概括', link: '/student/smart-companion/overview' },
+                        { text: '操作流程', link: '/student/smart-companion/operation' },
+                        { text: '大模型对话案例', link: '/student/smart-companion/case-studies' },
+                        { text: '注意事项', link: '/student/smart-companion/precautions' }
+                    ]
+                }
             ]
-            // '/student/': [
-            //     {
-            //         text: '简介',
-            //         items: [
-            //             { text: '什么是 Web 开发', link: '/web/intro/what-is-it' },
-            //             { text: '技术路线', link: '/web/intro/roadmap' }
-            //         ]
-            //     },
-            //     {
-            //         text: '前置准备',
-            //         items: [{ text: '配置 Node.js 多环境管理工具', link: '/web/prepare/multiple-env' }]
-            //     }
-            // ]
         },
         aside: true,
         outline: {
